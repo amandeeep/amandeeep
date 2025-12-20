@@ -9,7 +9,7 @@
 <td width="60%" valign="top">
 
 ### 🌟 About Me  
-- 🔭 Currently working on **[Pusle Match](https://github.com/amandeeep/TinderInspired.git)**  
+ 
 - 🌱 Learning **Node.js** & diving deep into backend development  
 - 👨‍💻 Explore my projects here: [Portfolio](https://portfolio-oo2o.vercel.app/)  
 - 💬 Ask me about **React, JavaScript, Java**  
